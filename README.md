@@ -44,7 +44,7 @@ Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad re
   - ![Supabase](https://img.icons8.com/?size=100&id=grZaE9tjqDyr&format=png&color=000000) *(Base de datos y autenticación)*
 
 - **Despliegue y CI/CD:**
-  - ![GitHub Pages](https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000) *GitHub Pages* *GitHub Actions*
+  - ![GitHub Pages](https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000) *GitHub Pages*, *GitHub Actions*
 
 
 
