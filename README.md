@@ -29,13 +29,23 @@ orientado al desarrollo backend y la automatización de procesos.
 Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad real, enfocado para mostrar un  catalogo de productos actualizado con botón que lleva a whatsapp del empresario.
 [![Vista previa de JL Phone](Logo_Generado.jpeg)](https://jlphone.tech/)
 🌐 [Visitar sitio web](https://jlphone.tech/)
- Stack tecnológico
-Frontend: HTML5, CSS3, JavaScript (Vanilla JS)
-Estilos: Bootstrap 5 y CSS personalizado
-Build Tool: Vite
-Backend as a Service (BaaS): Supabase (base de datos y autenticación)
-Optimización de imágenes: WebP
-Despliegue y CI/CD: GitHub Pages y GitHub Actions
+####Stack tecnológico
+- **Frontend:**
+  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) (Vanilla JS)
+- **Estilos:**
+  - ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+  - CSS personalizado
+- **Build Tool:**
+  - ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+- **Backend as a Service (BaaS):**
+  - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) (Base de datos y autenticación)
+- **Optimización de imágenes:**
+  - WebP
+- **Despliegue y CI/CD:**
+  - ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+  - ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 
 ## 🎯 Objetivo
