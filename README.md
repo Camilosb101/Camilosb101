@@ -42,10 +42,9 @@ Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad re
   - ![Vite](https://img.icons8.com/?size=100&id=YO3YqSaTOu5K&format=png&color=000000)
 - **Backend as a Service (BaaS):**
   - ![Supabase](https://img.icons8.com/?size=100&id=grZaE9tjqDyr&format=png&color=000000) (Base de datos y autenticación)
-- **Optimización de imágenes:**
-  - WebP
+
 - **Despliegue y CI/CD:**
-  - ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+  - ![GitHub Pages](https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000)
   - ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 
