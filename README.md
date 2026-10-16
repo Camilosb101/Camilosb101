@@ -2,8 +2,7 @@
 
 ### 💻 Desarrollador de Software Junior | Backend
 
-Estudiante de Ingeniería de Sistemas y Análisis y Desarrollo de Software,
-orientado al desarrollo backend y la automatización de procesos.
+Soy estudiante de la Universidad Nacioanl Abierta y a Distancia (UNAD) tambien estudio en el SENA Analisis y Desarrollo de Software, actualmente dedico la mayoria de mi tiempo libre a seguir estudaindo formas de hacer las cosas y como puedo mejorarlas, quiero especializarme en ela rea del backend me gusta mucho pensar en como funcionan las cosas y acontinuacion conoceras un poco mas de mi ;)
 🐍 Python · ☕ Java · 🌐 Django · 🗄️ SQL · 🐙 Git/GitHub
 ## 🛠️ Tecnologías
 
