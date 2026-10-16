@@ -30,18 +30,18 @@ Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad re
 [![Vista previa de JL Phone](Logo_Generado.jpeg)](https://jlphone.tech/)
 🌐 [Visitar sitio web](https://jlphone.tech/)
 
-###Stack tecnológico
+### Stack tecnológico
 - **Frontend:**
   - ![HTML5](https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000)
     ![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
-    ![JavaScript](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000) ##(Vanilla JS)
+    ![JavaScript](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000)
+    
 - **Estilos:**
-  - ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-  - CSS personalizado
+  - ![Bootstrap](https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000) CSS personalizado
 - **Build Tool:**
-  - ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+  - ![Vite](https://img.icons8.com/?size=100&id=YO3YqSaTOu5K&format=png&color=000000)
 - **Backend as a Service (BaaS):**
-  - ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) (Base de datos y autenticación)
+  - ![Supabase](https://img.icons8.com/?size=100&id=grZaE9tjqDyr&format=png&color=000000) (Base de datos y autenticación)
 - **Optimización de imágenes:**
   - WebP
 - **Despliegue y CI/CD:**
