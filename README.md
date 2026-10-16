@@ -9,20 +9,40 @@ orientado al desarrollo backend y la automatización de procesos.
 
 ## 🛠️ Tecnologías
 
-### Lenguajes
-![Python](https://img.icons8.com/?size=100&id=13441&format=png&color=000000)
-![Java](https://img.icons8.com/?size=100&id=13679&format=png&color=000000)
-![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
-![SQL](https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000)
+## 🛠️ Tecnologías
 
-### Backend y bases de datos
-![Django](https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000)
-![SQLite](https://img.icons8.com/?size=100&id=39855&format=png&color=000000)
-
-### Herramientas
-![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
-![GitHub](https://img.icons8.com/?size=100&id=RHLuYrY4GjUv&format=png&color=000000)
-![VS Code](https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000)
+<table>
+  <!-- Fila 1: Títulos principales alineados -->
+  <tr align="center">
+    <th width="35%">Lenguajes</th>
+    <th width="30%">Backend & Bases de Datos</th>
+    <th width="35%">Herramientas</th>
+  </tr>
+  <!-- Fila 2: Iconos a 60px nivelados verticalmente -->
+  <tr align="center" valign="middle">
+    <td height="90">
+      <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="60" height="60" alt="Python" />
+      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="60" height="60" alt="Java" />
+      <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" height="60" alt="JavaScript" />
+      <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="60" height="60" alt="SQL" />
+    </td>
+    <td height="90">
+      <img src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000" width="60" height="60" alt="Django" />
+      <img src="https://img.icons8.com/?size=100&id=39855&format=png&color=000000" width="60" height="60" alt="SQLite" />
+    </td>
+    <td height="90">
+      <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="60" height="60" alt="Git" />
+      <img src="https://img.icons8.com/?size=100&id=RHLuYrY4GjUv&format=png&color=000000" width="60" height="60" alt="GitHub" />
+      <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" width="60" height="60" alt="VS Code" />
+    </td>
+  </tr>
+  <!-- Fila 3: Subtítulos alineados -->
+  <tr align="center" valign="top">
+    <td><sub>Python • Java • JS • SQL</sub></td>
+    <td><sub>Django • SQLite</sub></td>
+    <td><sub>Git • GitHub • VS Code</sub></td>
+  </tr>
+</table>
 
 ## Proyectos Propios 
 ### JL Phone - Tienda de celulares 
