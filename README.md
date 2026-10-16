@@ -31,20 +31,14 @@ Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad re
 🌐 [Visitar sitio web](https://jlphone.tech/)
 
 ### Stack tecnológico
-- **Frontend:**
-- <img src="https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png&color=000000" width="50" height="50" align="center" />
-    <img src="https://img.icons8.com/?size=48&id=21278&format=png&color=000000" width="50" height="50" align="center" />
-    <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=png&color=000000" width="50" height="50" align="center" />
-    
-- **Estilos:**
-- <img src="https://img.icons8.com/?size=48&id=g9mmSxx3SwAI&format=png&color=000000" width="50" height="50" align="center" /> *CSS personalizado*
-- **Build Tool:**
-- <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="50" height="50" align="center" />
-- **Backend as a Service (BaaS):**
-- <img src="https://img.icons8.com/?size=48&id=grZaE9tjqDyr&format=png&color=000000" width="50" height="50" align="center" /> Supabase *(Base de datos y autenticación)*
 
-- **Despliegue y CI/CD:**
-- <img src="https://img.icons8.com/?size=48&id=D5XsEXNbhkMI&format=png&color=000000" width="50" height="50" align="center" /> *GitHub Pages & GitHub Actions*
+| Área | Herramientas |
+| :--- | :--- |
+| **Frontend** | <img src="https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png&color=000000" width="40" height="40" align="center" alt="HTML5" /> &nbsp; <img src="https://img.icons8.com/?size=48&id=21278&format=png&color=000000" width="40" height="40" align="center" alt="CSS3" /> &nbsp; <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=png&color=000000" width="40" height="40" align="center" alt="JavaScript" /> |
+| **Estilos** | <img src="https://img.icons8.com/?size=48&id=g9mmSxx3SwAI&format=png&color=000000" width="40" height="40" align="center" alt="Bootstrap" /> *CSS personalizado* |
+| **Build Tool** | <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="40" height="40" align="center" alt="Vite" /> |
+| **Backend (BaaS)** | <img src="https://img.icons8.com/?size=48&id=grZaE9tjqDyr&format=png&color=000000" width="40" height="40" align="center" alt="Supabase" /> *Supabase (Base de datos y autenticación)* |
+| **Despliegue y CI/CD**| <img src="https://img.icons8.com/?size=48&id=D5XsEXNbhkMI&format=png&color=000000" width="40" height="40" align="center" alt="GitHub" /> *GitHub Pages & Actions* |
 
 
 
