@@ -31,7 +31,7 @@ Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad re
 🌐 [Visitar sitio web](https://jlphone.tech/)
 ####Stack tecnológico
 - **Frontend:**
-  - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  - ![HTML5]([https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.icons8.com/?size=100&id=zRvbzAjx4VWY&format=png&color=000000))
   - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) (Vanilla JS)
 - **Estilos:**
