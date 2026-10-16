@@ -27,7 +27,7 @@ orientado al desarrollo backend y la automatización de procesos.
 ## Proyectos Propios 
 ### JL Phone - Tienda de celulares 
 Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad real, enfocado para mostrar un  catalogo de productos actualizado con botón que lleva a whatsapp del empresario.
-[![Vista previa de JL Phone](assets/image.png)](https://jlphone.tech/)
+[![Vista previa de JL Phone](image.png)](https://jlphone.tech/)
 🌐 [Visitar sitio web](https://jlphone.tech/)
  Stack tecnológico
 Frontend: HTML5, CSS3, JavaScript (Vanilla JS)
