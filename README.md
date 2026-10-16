@@ -33,34 +33,41 @@ Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad re
 ### Stack tecnológico
 
 <table>
+  <!-- Fila 1: Títulos alineados -->
   <tr align="center">
-    <td width="20%">
-      <b>Frontend</b><br><br>
-      <img src="https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png&color=000000" width="36" height="36" alt="HTML5" />
-      <img src="https://img.icons8.com/?size=48&id=21278&format=png&color=000000" width="36" height="36" alt="CSS3" />
-      <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=png&color=000000" width="36" height="36" alt="JS" />
-      <br><sub>HTML5 • CSS3 • JS</sub>
+    <th width="20%">Frontend</th>
+    <th width="20%">Estilos</th>
+    <th width="20%">Build Tool</th>
+    <th width="20%">Backend (BaaS)</th>
+    <th width="20%">CI/CD & Deploy</th>
+  </tr>
+  <!-- Fila 2: Iconos a 50px de altura uniforme -->
+  <tr align="center" valign="middle">
+    <td height="75">
+      <img src="https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000" width="46" height="46" alt="HTML5" />
+      <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" width="46" height="46" alt="CSS3" />
+      <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" width="46" height="46" alt="JS" />
     </td>
-    <td width="20%">
-      <b>Estilos</b><br><br>
-      <img src="https://img.icons8.com/?size=48&id=g9mmSxx3SwAI&format=png&color=000000" width="36" height="36" alt="Bootstrap" />
-      <br><sub>Bootstrap 5 & Custom CSS</sub>
+    <td height="75">
+      <img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" width="50" height="50" alt="Bootstrap" />
     </td>
-    <td width="20%">
-      <b>Build Tool</b><br><br>
-      <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="36" height="36" alt="Vite" />
-      <br><sub>Vite</sub>
+    <td height="75">
+      <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="50" height="50" alt="Vite" />
     </td>
-    <td width="20%">
-      <b>Backend (BaaS)</b><br><br>
-      <img src="https://img.icons8.com/?size=48&id=grZaE9tjqDyr&format=png&color=000000" width="36" height="36" alt="Supabase" />
-      <br><sub>Supabase</sub>
+    <td height="75">
+      <img src="https://img.icons8.com/?size=100&id=grZaE9tjqDyr&format=png&color=000000" width="50" height="50" alt="Supabase" />
     </td>
-    <td width="20%">
-      <b>CI/CD & Deploy</b><br><br>
-      <img src="https://img.icons8.com/?size=48&id=D5XsEXNbhkMI&format=png&color=000000" width="36" height="36" alt="GitHub" />
-      <br><sub>GitHub Pages & Actions</sub>
+    <td height="75">
+      <img src="https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000" width="50" height="50" alt="GitHub" />
     </td>
+  </tr>
+  <!-- Fila 3: Descripciones alineadas -->
+  <tr align="center" valign="top">
+    <td><sub>HTML5 • CSS3 • JS</sub></td>
+    <td><sub>Bootstrap 5 & CSS</sub></td>
+    <td><sub>Vite</sub></td>
+    <td><sub>Supabase</sub></td>
+    <td><sub>Pages & Actions</sub></td>
   </tr>
 </table>
 
