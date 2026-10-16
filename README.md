@@ -29,11 +29,12 @@ orientado al desarrollo backend y la automatización de procesos.
 Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad real, enfocado para mostrar un  catalogo de productos actualizado con botón que lleva a whatsapp del empresario.
 [![Vista previa de JL Phone](Logo_Generado.jpeg)](https://jlphone.tech/)
 🌐 [Visitar sitio web](https://jlphone.tech/)
-####Stack tecnológico
+
+###Stack tecnológico
 - **Frontend:**
   - ![HTML5](https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000)
-  - ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) (Vanilla JS)
+  - ![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+  - ![JavaScript](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000) (Vanilla JS)
 - **Estilos:**
   - ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
   - CSS personalizado
