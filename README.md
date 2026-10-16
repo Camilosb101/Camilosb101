@@ -4,11 +4,7 @@
 
 Estudiante de Ingeniería de Sistemas y Análisis y Desarrollo de Software,
 orientado al desarrollo backend y la automatización de procesos.
-
 🐍 Python · ☕ Java · 🌐 Django · 🗄️ SQL · 🐙 Git/GitHub
-
-## 🛠️ Tecnologías
-
 ## 🛠️ Tecnologías
 
 <table>
@@ -21,19 +17,36 @@ orientado al desarrollo backend y la automatización de procesos.
   <!-- Fila 2: Iconos a 60px nivelados verticalmente -->
   <tr align="center" valign="middle">
     <td height="90">
-      <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="90" height="90" alt="Python" />
-      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="90" height="90" alt="Java" />
-      <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="90" height="90" alt="JavaScript" />
-      <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="60" height="60" alt="SQL" />
+      <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000"  
+        width="90" 
+        height="90" alt="Python" />
+      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" 
+        width="90" 
+        height="90" alt="Java" />
+      <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" 
+        width="90" 
+        height="90" alt="JavaScript" />
+      <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" 
+        width="90" height="90" alt="SQL" />
     </td>
     <td height="90">
-      <img src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000" width="90" height="90" alt="Django" />
-      <img src="https://img.icons8.com/?size=100&id=39855&format=png&color=000000" width="90" height="90" alt="SQLite" />
+      <img src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000"
+        width="90" 
+        height="90" alt="Django" />
+      <img src="https://img.icons8.com/?size=100&id=39855&format=png&color=000000"
+        width="90" 
+        height="90" alt="SQLite" />
     </td>
     <td height="90">
-      <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="90" height="90" alt="Git" />
-      <img src="https://img.icons8.com/?size=100&id=RHLuYrY4GjUv&format=png&color=000000" width="90" height="90" alt="GitHub" />
-      <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" width="90" height="90" alt="VS Code" />
+      <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+        width="90" 
+        height="90" alt="Git" />
+      <img src="https://img.icons8.com/?size=100&id=RHLuYrY4GjUv&format=png&color=000000"
+        width="90" 
+        height="90" alt="GitHub" />
+      <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"
+        width="90" 
+        height="90" alt="VS Code" />
     </td>
   </tr>
   <!-- Fila 3: Subtítulos alineados -->
