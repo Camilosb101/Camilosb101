@@ -37,14 +37,14 @@ Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad re
     <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=png&color=000000" width="50" height="50" align="center" />
     
 - **Estilos:**
-  - ![Bootstrap](https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000) *CSS personalizado*
+  - <img src="https://img.icons8.com/?size=48&id=g9mmSxx3SwAI&format=png&color=000000" width="20" height="20" align="center" /> *CSS personalizado*
 - **Build Tool:**
-  - ![Vite](https://img.icons8.com/?size=100&id=YO3YqSaTOu5K&format=png&color=000000)
+  - <img src="https://img.icons8.com/?size=48&id=Y03YqSaTOu5K&format=png&color=000000" width="20" height="20" align="center" />
 - **Backend as a Service (BaaS):**
-  - ![Supabase](https://img.icons8.com/?size=100&id=grZaE9tjqDyr&format=png&color=000000) *(Base de datos y autenticación)*
+  - <img src="https://img.icons8.com/?size=48&id=grZaE9tjqDyr&format=png&color=000000" width="20" height="20" align="center" /> Supabase *(Base de datos y autenticación)*
 
 - **Despliegue y CI/CD:**
-  - ![GitHub Pages](https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000) *GitHub Pages*, *GitHub Actions*
+  - <img src="https://img.icons8.com/?size=48&id=D5XsEXNbhkMI&format=png&color=000000" width="20" height="20" align="center" /> *GitHub Pages & GitHub Actions*
 
 
 
