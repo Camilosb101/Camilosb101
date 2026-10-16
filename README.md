@@ -2,8 +2,11 @@
 
 ### 💻 Desarrollador de Software Junior | Backend
 
-Soy estudiante de la Universidad Nacioanl Abierta y a Distancia (UNAD) tambien estudio en el SENA Analisis y Desarrollo de Software, actualmente dedico la mayoria de mi tiempo libre a seguir estudaindo formas de hacer las cosas y como puedo mejorarlas, quiero especializarme en ela rea del backend me gusta mucho pensar en como funcionan las cosas y acontinuacion conoceras un poco mas de mi ;)
+Soy estudiante de la Universidad Nacional Abierta y a Distancia (UNAD) y también estudio en el SENA Análisis y Desarrollo de Software. Actualmente dedico la mayoría de mi tiempo libre a seguir estudiando tecnologias o procesos tecnicos de cómo puedo mejorar mis habilidades. Quiero especializarme en el área del backend y trabajo en ello; me gusta mucho pensar en cómo funcionan las cosas, y a continuación conocerás un poco más de mí ;)
+
+### Estas Son las tecnologias en las que e trabajado:
 🐍 Python · ☕ Java · 🌐 Django · 🗄️ SQL · 🐙 Git/GitHub
+- *En constante aprendizaje y profundización práctica en cada una de ellas.*
 ## 🛠️ Tecnologías
 
 <table>
