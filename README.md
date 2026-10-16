@@ -20,9 +20,9 @@ orientado al desarrollo backend y la automatización de procesos.
 ![SQLite](https://img.icons8.com/?size=100&id=39855&format=png&color=000000)
 
 ### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.icons8.com/?size=100&id=20906&format=png&color=000000)
+![GitHub](https://img.icons8.com/?size=100&id=RHLuYrY4GjUv&format=png&color=000000)
+![VS Code](https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000)
 
 ## Proyectos Propios 
 ### JL Phone - Tienda de celulares 
