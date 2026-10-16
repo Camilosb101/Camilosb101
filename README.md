@@ -33,8 +33,8 @@ Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad re
 ###Stack tecnológico
 - **Frontend:**
   - ![HTML5](https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000)
-  - ![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
-  - ![JavaScript](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000) (Vanilla JS)
+    ![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+    ![JavaScript](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000) (Vanilla JS)
 - **Estilos:**
   - ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
   - CSS personalizado
