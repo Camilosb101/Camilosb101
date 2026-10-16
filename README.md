@@ -24,10 +24,21 @@ orientado al desarrollo backend y la automatización de procesos.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## Proyectos Propios 
+### JL Phone - Tienda de celulares 
+Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad real, enfocado para mostrar un  catalogo de productos actualizado con botón que lleva a whatsapp del empresario.
+[![Vista previa de JL Phone](assets/jlphone-preview.png)](https://jlphone.tech/)
+🌐 [Visitar sitio web](https://jlphone.tech/)
+ Stack tecnológico
+Frontend: HTML5, CSS3, JavaScript (Vanilla JS)
+Estilos: Bootstrap 5 y CSS personalizado
+Build Tool: Vite
+Backend as a Service (BaaS): Supabase (base de datos y autenticación)
+Optimización de imágenes: WebP
+Despliegue y CI/CD: GitHub Pages y GitHub Actions
 
 
 ## 🎯 Objetivo
-
 Seguir desarrollándome como profesional en el área de software,
 especialmente en Backend, y participar en proyectos donde pueda
 aplicar mis conocimientos y continuar aprendiendo.
