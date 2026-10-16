@@ -32,7 +32,7 @@ Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad re
 
 ### Stack tecnológico
 - **Frontend:**
-  - ![HTML5](https://img.icons8.com/?size=100&id=v8RpPQUwv0N8&format=png&color=000000)
+  - <img src="https://img.icons8.com/?size=48&id=20909&format=png" width="20" height="20" align="center" />
     ![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
     ![JavaScript](https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000)
     
