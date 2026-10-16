@@ -21,19 +21,19 @@ orientado al desarrollo backend y la automatización de procesos.
   <!-- Fila 2: Iconos a 60px nivelados verticalmente -->
   <tr align="center" valign="middle">
     <td height="90">
-      <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="60" height="60" alt="Python" />
-      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="60" height="60" alt="Java" />
-      <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="60" height="60" alt="JavaScript" />
+      <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" width="70" height="70" alt="Python" />
+      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="70" height="70" alt="Java" />
+      <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="70" height="70" alt="JavaScript" />
       <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" width="60" height="60" alt="SQL" />
     </td>
     <td height="90">
-      <img src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000" width="60" height="60" alt="Django" />
-      <img src="https://img.icons8.com/?size=100&id=39855&format=png&color=000000" width="60" height="60" alt="SQLite" />
+      <img src="https://img.icons8.com/?size=100&id=mUBILbYvUMq8&format=png&color=000000" width="70" height="70" alt="Django" />
+      <img src="https://img.icons8.com/?size=100&id=39855&format=png&color=000000" width="70" height="70" alt="SQLite" />
     </td>
     <td height="90">
-      <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="60" height="60" alt="Git" />
-      <img src="https://img.icons8.com/?size=100&id=RHLuYrY4GjUv&format=png&color=000000" width="60" height="60" alt="GitHub" />
-      <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" width="60" height="60" alt="VS Code" />
+      <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="70" height="70" alt="Git" />
+      <img src="https://img.icons8.com/?size=100&id=RHLuYrY4GjUv&format=png&color=000000" width="70" height="70" alt="GitHub" />
+      <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" width="70" height="70" alt="VS Code" />
     </td>
   </tr>
   <!-- Fila 3: Subtítulos alineados -->
