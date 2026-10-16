@@ -37,7 +37,7 @@ Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad re
     <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=png&color=000000" width="50" height="50" align="center" />
     
 - **Estilos:**
-  - <img src="https://img.icons8.com/?size=48&id=g9mmSxx3SwAI&format=png&color=000000" width="50" height="50" align="center" /> *CSS personalizado*
+   <img src="https://img.icons8.com/?size=48&id=g9mmSxx3SwAI&format=png&color=000000" width="50" height="50" align="center" /> *CSS personalizado*
 - **Build Tool:**
   - <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="50" height="50" align="center" />
 - **Backend as a Service (BaaS):**
