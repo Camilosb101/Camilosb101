@@ -32,13 +32,37 @@ Sitio Web Comercial Responsive desarrollado para un cliente con una necesidad re
 
 ### Stack tecnológico
 
-| Área | Herramientas |
-| :--- | :--- |
-| **Frontend** | <img src="https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png&color=000000" width="40" height="40" align="center" alt="HTML5" /> &nbsp; <img src="https://img.icons8.com/?size=48&id=21278&format=png&color=000000" width="40" height="40" align="center" alt="CSS3" /> &nbsp; <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=png&color=000000" width="40" height="40" align="center" alt="JavaScript" /> |
-| **Estilos** | <img src="https://img.icons8.com/?size=48&id=g9mmSxx3SwAI&format=png&color=000000" width="40" height="40" align="center" alt="Bootstrap" /> *CSS personalizado* |
-| **Build Tool** | <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="40" height="40" align="center" alt="Vite" /> |
-| **Backend (BaaS)** | <img src="https://img.icons8.com/?size=48&id=grZaE9tjqDyr&format=png&color=000000" width="40" height="40" align="center" alt="Supabase" /> *Supabase (Base de datos y autenticación)* |
-| **Despliegue y CI/CD**| <img src="https://img.icons8.com/?size=48&id=D5XsEXNbhkMI&format=png&color=000000" width="40" height="40" align="center" alt="GitHub" /> *GitHub Pages & Actions* |
+<table>
+  <tr align="center">
+    <td width="20%">
+      <b>Frontend</b><br><br>
+      <img src="https://img.icons8.com/?size=48&id=v8RpPQUwv0N8&format=png&color=000000" width="36" height="36" alt="HTML5" />
+      <img src="https://img.icons8.com/?size=48&id=21278&format=png&color=000000" width="36" height="36" alt="CSS3" />
+      <img src="https://img.icons8.com/?size=48&id=GPfHz0SM85FX&format=png&color=000000" width="36" height="36" alt="JS" />
+      <br><sub>HTML5 • CSS3 • JS</sub>
+    </td>
+    <td width="20%">
+      <b>Estilos</b><br><br>
+      <img src="https://img.icons8.com/?size=48&id=g9mmSxx3SwAI&format=png&color=000000" width="36" height="36" alt="Bootstrap" />
+      <br><sub>Bootstrap 5 & Custom CSS</sub>
+    </td>
+    <td width="20%">
+      <b>Build Tool</b><br><br>
+      <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="36" height="36" alt="Vite" />
+      <br><sub>Vite</sub>
+    </td>
+    <td width="20%">
+      <b>Backend (BaaS)</b><br><br>
+      <img src="https://img.icons8.com/?size=48&id=grZaE9tjqDyr&format=png&color=000000" width="36" height="36" alt="Supabase" />
+      <br><sub>Supabase</sub>
+    </td>
+    <td width="20%">
+      <b>CI/CD & Deploy</b><br><br>
+      <img src="https://img.icons8.com/?size=48&id=D5XsEXNbhkMI&format=png&color=000000" width="36" height="36" alt="GitHub" />
+      <br><sub>GitHub Pages & Actions</sub>
+    </td>
+  </tr>
+</table>
 
 
 
